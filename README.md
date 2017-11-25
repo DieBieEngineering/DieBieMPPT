@@ -1,5 +1,7 @@
 # DieBieMPPT
-This is my MPPT project I am doing for a solar boat racing application called the DieBieMPPT. 
+This is my MPPT project I am doing for our the Dutch Solarboat team for solarboat racing application called the DieBieMPPT. 
+
+https://www.dutchsolarboat.com/
 
 The hardware currently presented in this repository could serve as a devellopment platform for if you want to design / devellop your own MPPT, eventually hopefully this project will mature into a usable MPPT for solarboat racing.
 
