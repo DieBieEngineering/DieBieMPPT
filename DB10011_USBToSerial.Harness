@@ -1,0 +1,2 @@
+SERIAL=RXD,TXD
+USB=Vusb,D-,D+

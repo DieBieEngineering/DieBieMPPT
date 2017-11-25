@@ -1,0 +1,472 @@
+*************************************************************
+FileName = DB10011_DieBieMPPT.GBR
+AutoAperture = True
+*************************************************************
+Generating : L1_SIG
+      File : DB10011_DieBieMPPT.GTL
+
+    Adding Layer      : L1_SIG
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : L2_PWR_SIG
+      File : DB10011_DieBieMPPT.G1
+
+    Adding Layer      : L2_PWR_SIG
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : L3_GND
+      File : DB10011_DieBieMPPT.G2
+
+    Adding Layer      : L3_GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : L4_GND
+      File : DB10011_DieBieMPPT.G3
+
+    Adding Layer      : L4_GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : L5_POW
+      File : DB10011_DieBieMPPT.G4
+
+    Adding Layer      : L5_POW
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : L6_POW
+      File : DB10011_DieBieMPPT.GBL
+
+    Adding Layer      : L6_POW
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : DB10011_DieBieMPPT.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D15
+    D22
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : DB10011_DieBieMPPT.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : L1_SIG
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : DB10011_DieBieMPPT.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1_SIG
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : DB10011_DieBieMPPT.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L6_POW
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : DB10011_DieBieMPPT.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L6_POW
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D68
+    D69
+    D70
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D165
+    D166
+    D167
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : DB10011_DieBieMPPT.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D15
+    D19
+    D35
+    D168
+    D169
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : DB10011_DieBieMPPT.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D35
+*************************************************************
+

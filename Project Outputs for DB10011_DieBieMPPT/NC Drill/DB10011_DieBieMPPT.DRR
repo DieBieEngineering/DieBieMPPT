@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: DB10011_DieBieMPPT.PcbDoc   29-6-2017  23:37:19
+---------------------------------------------------------------------------
+
+Layer Pair : L1_SIG to L6_POW
+ASCII RoundHoles File : DB10011_DieBieMPPT.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.25mm (9.842mil)        Round          287              1112.91 mm (43.82 Inch)
+T2        0.4mm (15.748mil)        Round          38               219.32 mm (8.63 Inch)
+T3        0.5mm (19.685mil)        Round          412              1197.01 mm (47.13 Inch)
+T4        1mm (39.37mil)           Round          20               306.50 mm (12.07 Inch)
+T5        1.3mm (51.181mil)        Round          2                7.15 mm (0.28 Inch)
+T6        1.4mm (55.118mil)        Round          8                72.65 mm (2.86 Inch)
+T7        1.5mm (59.055mil)        Round          8                53.34 mm (2.10 Inch)
+T8        1.6mm (62.992mil)        Round          32               289.04 mm (11.38 Inch)
+T9        3.2mm (125.984mil)       Round          6                351.99 mm (13.86 Inch)
+T10       4.4mm (173.228mil)       Round          4                35.56 mm (1.40 Inch)
+T11       0.3mm (11.811mil)        Round          15        NPTH   107.81 mm (4.24 Inch)
+T12       2mm (78.74mil)           Round          5         NPTH   38.00 mm (1.50 Inch)
+---------------------------------------------------------------------------
+Totals                                            837              3791.28 mm (149.26 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
